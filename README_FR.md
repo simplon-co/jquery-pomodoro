@@ -1,4 +1,4 @@
-#Pomodoro
+#Pomodoro :tomato:
 
 Créez une appli pour gérer des sessions Pomodoro.
 
