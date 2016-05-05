@@ -2,7 +2,7 @@
 
 Create an app to manage _Pomodoro_ sessions.
 
-The features:
+Features:
 
 * Decide on the task at hand;
 * Start the timer (25 minutes);
