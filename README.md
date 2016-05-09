@@ -12,4 +12,4 @@ Create an app to manage _Pomodoro_ sessions.
 * Take a short break (5 minutes);
 * Every four _Pomodori_ take a break a little longer (15-20 minutes).
 
-You have a basic skeleton containing HTML, CSS code and integrates Bootstrap and jQuery.
+You have a basic skeleton containing *HTML*, *CSS* code and integrates *Bootstrap* and *jQuery*.
