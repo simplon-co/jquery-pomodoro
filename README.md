@@ -6,9 +6,9 @@ Create an app to manage _Pomodoro_ sessions.
 
 ## Features:
 
-* Decide on the task at hand;
+* Choose the task to do;
 * Start the timer (25 minutes);
-* Work on the task until the timer rings and the note as done;
+* Work on the task until the timer rings and set it done;
 * Take a short break (5 minutes);
 * Every four _Pomodori_ take a break a little longer (15-20 minutes).
 
