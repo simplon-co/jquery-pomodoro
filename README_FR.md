@@ -12,4 +12,4 @@ Créez une appli pour gérer des sessions _Pomodoro_.
 * prendre une courte pause (5 minutes) ;
 * tous les quatre _Pomodori_ prendre une pause un peu plus longue (15-20 minutes).
 
-Vous avez un squelette de base contenant le code HTML, le code CSS, et qui intègre Bootstrap et jQuery.
+Vous avez un squelette de base contenant le code **HTML**, le code **CSS**, et qui intègre **Bootstrap** et **jQuery**.
