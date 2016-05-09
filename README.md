@@ -4,7 +4,7 @@ Create an app to manage _Pomodoro_ sessions.
 
 ![Pomodoro Timer](pomodoro.jpg)
 
-Features:
+## Features:
 
 * Decide on the task at hand;
 * Start the timer (25 minutes);
