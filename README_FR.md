@@ -4,7 +4,7 @@ Créez une appli pour gérer des sessions _Pomodoro_.
 
 ![Pomodoro Timer](pomodoro.jpg)
 
-Les fonctionnalités :
+## Les fonctionnalités :
 
 * décider de la tâche à effectuer ;
 * démarrer le minuteur (25 minutes) ;
